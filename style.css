@@ -46,12 +46,18 @@ table {
 	border-spacing: 0;
 }
 /* Layout ------------------- */
-
+.aside {
+   max-width: 70vw;
+   margin: 0 auto;
+   margin-top: 4em;
+   background: #1C1C1C;
+}
 
 /* Typography ------------------- */
 html {   
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
 
 
 
